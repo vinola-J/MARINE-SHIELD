@@ -40,10 +40,12 @@ uploads/*
 generated_reports/*
 !generated_reports/.gitkeep
 
-# Models & Vector Store artifacts
-models/*.pth
-vectorstore/*
-!vectorstore/.gitkeep
+# Models & Vector Store artifacts (track release weights)
+models/*.tmp
+!models/marine_shield_model.pth
+!models/evaluation_metrics.json
+!vectorstore/faiss_index.bin
+!vectorstore/chunks_metadata.json
 
 # Testing & Coverage
 .pytest_cache/

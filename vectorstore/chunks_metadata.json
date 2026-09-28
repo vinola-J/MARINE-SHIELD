@@ -1,0 +1,198 @@
+{
+  "total_chunks": 24,
+  "embedding_dimension": 384,
+  "chunks": [
+    {
+      "chunk_id": "KB-DOC-005_c1",
+      "doc_id": "KB-DOC-005",
+      "title": "Standard Operating Procedures for Coastal Cleanup Operations",
+      "category": "Coastal Cleanup Guidance",
+      "source": "International Shoreline Cleanup Protocol & Community Coastal Stewardship Standard",
+      "text": "# Standard Operating Procedures for Coastal Cleanup Operations\n\n## 1. Objectives of Coastal Cleanup Operations\nCoastal cleanup operations aim to eliminate hazardous anthropogenic waste from marine intertidal habitats, prevent offshore drift of synthetic polymers, and catalog debris metrics to inform source-reduction policies."
+    },
+    {
+      "chunk_id": "KB-DOC-005_c2",
+      "doc_id": "KB-DOC-005",
+      "title": "Standard Operating Procedures for Coastal Cleanup Operations",
+      "category": "Coastal Cleanup Guidance",
+      "source": "International Shoreline Cleanup Protocol & Community Coastal Stewardship Standard",
+      "text": "thetic polymers, and catalog debris metrics to inform source-reduction policies.\n\n## 2. Safety Protocols and Personal Protective Equipment (PPE)\n- **Mandatory PPE:** Heavy work gloves (nitrile or leather-palmed), closed-toe thick-soled footwear, sun protection (hat, UV-blocking sunglasses, SPF sunscreen), and adequate potable hydration fluids.\n- **Handling Hazardous Materials:**\n  - Never directly touch medical waste (syringes, IV tubing), unknown chemical drums, pyrotechnic marine flares, or pressurized gas canisters. Mark GPS location and alert municipal environmental hazmat responders immediately.\n  - Sharp debris (broken glass, razor blades, rusted hooks) must be deposited in puncture-proof sharps containers or hard plastic buckets.\n- **Tidal Awareness:** Always check local tide tables before cleanup operations. Work on an ebbing (falling) tide to maximize safe access to the wash zone and avoid being cut off by rising high tides."
+    },
+    {
+      "chunk_id": "KB-DOC-005_c3",
+      "doc_id": "KB-DOC-005",
+      "title": "Standard Operating Procedures for Coastal Cleanup Operations",
+      "category": "Coastal Cleanup Guidance",
+      "source": "International Shoreline Cleanup Protocol & Community Coastal Stewardship Standard",
+      "text": "imize safe access to the wash zone and avoid being cut off by rising high tides.\n\n## 3. Waste Categorization and Segregation at Source\nSegregate collected debris into four distinct color-coded waste streams during field operations:\n1. **Recyclable Rigid Plastics:** Beverage bottles, rigid jugs (HDPE/PET).\n2. **Derelict Fishing Gear & Netting:** Ropes, lines, traps, monofilament nets.\n3. **Metals & Glass:** Clean cans for scrap recycling; broken glass in rigid containers for safe disposal.\n4. **General Non-Recyclable Trash:** Degraded plastic films, foam fragments, cigarette filters, contaminated mixed debris."
+    },
+    {
+      "chunk_id": "KB-DOC-005_c4",
+      "doc_id": "KB-DOC-005",
+      "title": "Standard Operating Procedures for Coastal Cleanup Operations",
+      "category": "Coastal Cleanup Guidance",
+      "source": "International Shoreline Cleanup Protocol & Community Coastal Stewardship Standard",
+      "text": "ded plastic films, foam fragments, cigarette filters, contaminated mixed debris.\n\n## 4. Post-Cleanup Data Reporting\n- Record total volunteer person-hours, shoreline length covered in meters or kilometers, and total mass in kilograms.\n- Utilize standardized marine debris tally sheets (e.g., Ocean Conservancy International Coastal Cleanup protocol) to submit field data for scientific tracking."
+    },
+    {
+      "chunk_id": "KB-DOC-006_c1",
+      "doc_id": "KB-DOC-006",
+      "title": "Coastal Marine Pollution Monitoring Protocols and Triage Assessment",
+      "category": "Environmental Monitoring Guidance",
+      "source": "Standardized Marine Litter Survey Methodology & Coastal Assessment Protocol",
+      "text": "# Coastal Marine Pollution Monitoring Protocols and Triage Assessment"
+    },
+    {
+      "chunk_id": "KB-DOC-006_c2",
+      "doc_id": "KB-DOC-006",
+      "title": "Coastal Marine Pollution Monitoring Protocols and Triage Assessment",
+      "category": "Environmental Monitoring Guidance",
+      "source": "Standardized Marine Litter Survey Methodology & Coastal Assessment Protocol",
+      "text": "# Coastal Marine Pollution Monitoring Protocols and Triage Assessment\n\n## 1. Survey Methodologies: 100-Meter Transect Protocol\nTo assess coastal pollution rigorously, surveyors establish standard 100-meter transects running parallel to the water's edge, stretching from the current water line to the upper storm wrack line or foredune boundary.\n- **Debris Density Metric:** Compute items per square meter ($items/m^2$) or items per 100 linear meters of coastline.\n- **Size Classification:**\n  - Micro-litter: $< 5\\text{ mm}$\n  - Meso-litter: $5\\text{ mm} - 25\\text{ mm}$\n  - Macro-litter: $> 25\\text{ mm}$ to $1\\text{ meter}$\n  - Mega-litter: $> 1\\text{ meter}$ (e.g., shipping pallets, large abandoned nets)"
+    },
+    {
+      "chunk_id": "KB-DOC-006_c3",
+      "doc_id": "KB-DOC-006",
+      "title": "Coastal Marine Pollution Monitoring Protocols and Triage Assessment",
+      "category": "Environmental Monitoring Guidance",
+      "source": "Standardized Marine Litter Survey Methodology & Coastal Assessment Protocol",
+      "text": "- Mega-litter: $> 1\\text{ meter}$ (e.g., shipping pallets, large abandoned nets)\n\n## 2. Rapid Triage Severity Scoring\nWhen full quantitative surveys are impossible, environmental responders apply a three-tiered rapid triage rating:\n- **LOW Severity:** Isolated, single-item debris; no entangled or threatened wildlife; low risk to recreational users; minimal threat of immediate wave wash-away into pelagic currents.\n- **MEDIUM Severity:** Clustered debris (5-20 items within a 10-meter radius) or presence of moderate hazard items (brittle plastic fragments, whole glass bottles, oxidized metal cans); moderate likelihood of wave-action dispersal.\n- **HIGH Severity:** Dense debris accumulation ($>20$ items in close proximity), large derelict fishing gear (ghost nets), hazardous chemicals, sharp laceration risks over public walkways, or debris actively smothering sensitive habitats (coral reefs, sea turtle nesting grounds)."
+    },
+    {
+      "chunk_id": "KB-DOC-006_c4",
+      "doc_id": "KB-DOC-006",
+      "title": "Coastal Marine Pollution Monitoring Protocols and Triage Assessment",
+      "category": "Environmental Monitoring Guidance",
+      "source": "Standardized Marine Litter Survey Methodology & Coastal Assessment Protocol",
+      "text": "ctively smothering sensitive habitats (coral reefs, sea turtle nesting grounds).\n\n## 3. Incident Documentation and Evidence Preservation\n- **Geotagged Photography:** Capture wide-angle contextual photographs showing the debris relative to the tide line and dunes, followed by close-up perpendicular images showing item composition and manufacturer markings.\n- **Metadata Logging:** Record UTC timestamp, high/low tide state, ambient weather conditions (e.g., recent storm surge or king tide events), and substrate type (fine sand, cobble, mudflat, rocky reef).\n- **Official Reporting:** Escalate high-severity alerts to local maritime environmental agencies, national marine sanctuary managers, or municipal coastal protection authorities."
+    },
+    {
+      "chunk_id": "KB-DOC-002_c1",
+      "doc_id": "KB-DOC-002",
+      "title": "Abandoned, Lost, and Discarded Fishing Gear (ALDFG) and Ghost Nets",
+      "category": "Marine Litter Management",
+      "source": "Global Ghost Gear Initiative (GGGI) Framework & Marine Fisheries Assessment Protocol",
+      "text": "# Abandoned, Lost, and Discarded Fishing Gear (ALDFG) and Ghost Nets\n\n## 1. Nature of Ghost Fishing Gear\nAbandoned, Lost, or Discarded Fishing Gear (ALDFG), commonly termed \"ghost gear\" or \"ghost nets\", consists of nylon monofilament gillnets, trawls, longlines, and crab/lobster pots left adrift or snagged on benthic reefs. Because synthetic nylon and polyolefin fibers do not readily decompose, ghost nets continue to capture marine organisms indefinitely\u2014a phenomenon called \"ghost fishing.\""
+    },
+    {
+      "chunk_id": "KB-DOC-002_c2",
+      "doc_id": "KB-DOC-002",
+      "title": "Abandoned, Lost, and Discarded Fishing Gear (ALDFG) and Ghost Nets",
+      "category": "Marine Litter Management",
+      "source": "Global Ghost Gear Initiative (GGGI) Framework & Marine Fisheries Assessment Protocol",
+      "text": "ue to capture marine organisms indefinitely\u2014a phenomenon called \"ghost fishing.\"\n\n## 2. Environmental and Ecological Significance\n- **Lethal Entanglement:** Ghost nets represent one of the most acute mortal threats to marine wildlife. Entangled cetaceans (dolphins, whales), sea turtles, pinnipeds, and sea birds suffer prolonged constriction, drowning, severed flippers, and severe infection.\n- **Benthic Habitat Smothering:** Derelict gear dragged across coral reefs, rocky outcrops, and seagrass meadows shears structural corals, dislodges sessile invertebrates, and smothers benthic filter feeders under sediment-trapping net bundles.\n- **Continuous Mortality Cycle:** Captured fish decompose in the net, attracting scavengers (crabs, larger fish, sharks), which in turn become entangled, creating a self-sustaining cycle of wildlife loss."
+    },
+    {
+      "chunk_id": "KB-DOC-002_c3",
+      "doc_id": "KB-DOC-002",
+      "title": "Abandoned, Lost, and Discarded Fishing Gear (ALDFG) and Ghost Nets",
+      "category": "Marine Litter Management",
+      "source": "Global Ghost Gear Initiative (GGGI) Framework & Marine Fisheries Assessment Protocol",
+      "text": "ich in turn become entangled, creating a self-sustaining cycle of wildlife loss.\n\n## 3. Recommended Field Response and Safety\n- **High Caution Alert:** Never pull heavily submerged or snagged nets alone. Submerged fishing nets can trap human hands, limbs, or diving gear under wave surge.\n- **Assessing Entangled Fauna:** If live wildlife is entangled, immediately contact licensed marine animal rescue personnel or coastal wildlife authorities before cutting net strands. Inexperienced attempts to cut nets around panicked animals can result in severe injury to both rescuer and animal.\n- **Extraction Tools:** Use specialized blunt-tip rescue line cutters rather than pointed knives. Secure tow lines to ensure the net does not drift away during manual cutting.\n- **Disposal and Recycling:** Keep recovered nets separate from ordinary municipal waste; clean monofilament netting can often be routed to specialized nylon recycling partners or secure containment to prevent re-entry into waterways."
+    },
+    {
+      "chunk_id": "KB-DOC-002_c4",
+      "doc_id": "KB-DOC-002",
+      "title": "Abandoned, Lost, and Discarded Fishing Gear (ALDFG) and Ghost Nets",
+      "category": "Marine Litter Management",
+      "source": "Global Ghost Gear Initiative (GGGI) Framework & Marine Fisheries Assessment Protocol",
+      "text": "lon recycling partners or secure containment to prevent re-entry into waterways.\n\n## 4. Monitoring Considerations\n- Record GPS coordinates, mesh size (knot-to-knot distance), twine diameter, buoy markings, and estimated total net mass.\n- Note whether the net was floating near the surface, intertidal, or anchored to benthic structures."
+    },
+    {
+      "chunk_id": "KB-DOC-003_c1",
+      "doc_id": "KB-DOC-003",
+      "title": "Marine Glass and Metal Debris: Physical Hazards and Environmental Persistence",
+      "category": "Coastal Litter Management",
+      "source": "Coastal Debris Management Guide & Beach Safety Assessment Manual",
+      "text": "# Marine Glass and Metal Debris: Physical Hazards and Environmental Persistence\n\n## 1. Overview of Glass and Metal Debris\nGlass and metallic waste found on coastal shorelines primarily originate from beverage containers (aluminum cans, crown caps, glass beverage bottles), industrial packaging, food tins, boat fittings, and discarded construction materials."
+    },
+    {
+      "chunk_id": "KB-DOC-003_c2",
+      "doc_id": "KB-DOC-003",
+      "title": "Marine Glass and Metal Debris: Physical Hazards and Environmental Persistence",
+      "category": "Coastal Litter Management",
+      "source": "Coastal Debris Management Guide & Beach Safety Assessment Manual",
+      "text": "trial packaging, food tins, boat fittings, and discarded construction materials.\n\n## 2. Environmental and Physical Hazards\n- **Physical Injury Risk:** Broken glass shards and corroded tin cans with sharp serrated edges present an immediate laceration danger to beach visitors, barefoot recreational users, and coastal wildlife (such as nesting seabirds and seal colonies).\n- **Entrapment of Small Organisms:** Narrow-necked bottles and open tins left intertidally frequently act as lethal pitfall traps for coastal hermit crabs, small lizards, and juvenile gastropods, which crawl inside and cannot escape.\n- **Corrosion and Leachates:** Unlike glass (which is chemically inert, though physically hazardous), metallic debris undergoes galvanic and electrochemical corrosion in saline seawater. Rusty iron fragments release iron oxides, and degrading aluminum and galvanized steel alloys may release trace metallic ions into localized tidal sediment pore-water."
+    },
+    {
+      "chunk_id": "KB-DOC-003_c3",
+      "doc_id": "KB-DOC-003",
+      "title": "Marine Glass and Metal Debris: Physical Hazards and Environmental Persistence",
+      "category": "Coastal Litter Management",
+      "source": "Coastal Debris Management Guide & Beach Safety Assessment Manual",
+      "text": "alloys may release trace metallic ions into localized tidal sediment pore-water.\n\n## 3. Recommended Response and Collection\n- **Rigid Container Storage:** Never place broken glass fragments or jagged metal lids in thin plastic garbage bags, which tear easily and injure volunteers. Use heavy-duty puncture-proof plastic buckets or five-gallon pails for glass and metal collection.\n- **Personal Protective Equipment (PPE):** Handlers must wear heavy nitrile- or Kevlar-reinforced work gloves. Sturdy thick-soled boots are mandatory to prevent puncture wounds from buried glass shards.\n- **Segregation:** Separate whole bottles and clean aluminum cans for community recycling programs. Encapsulate broken shards safely before final landfill disposal."
+    },
+    {
+      "chunk_id": "KB-DOC-003_c4",
+      "doc_id": "KB-DOC-003",
+      "title": "Marine Glass and Metal Debris: Physical Hazards and Environmental Persistence",
+      "category": "Coastal Litter Management",
+      "source": "Coastal Debris Management Guide & Beach Safety Assessment Manual",
+      "text": "cling programs. Encapsulate broken shards safely before final landfill disposal.\n\n## 4. Monitoring and Documentation\n- Document whether glass is whole or fragmented (\"sea glass\" with tumbled rounded edges poses lower acute injury risk than freshly broken sharp shards).\n- Note brand and labeling to determine whether debris originates from recent shoreline visitor littering or maritime vessel overboard disposal."
+    },
+    {
+      "chunk_id": "KB-DOC-001_c1",
+      "doc_id": "KB-DOC-001",
+      "title": "Marine Plastic Pollution and Microplastic Dynamics",
+      "category": "Marine Pollution Information",
+      "source": "Marine Environmental Research Review & Coastal Litter Management Guidelines",
+      "text": "# Marine Plastic Pollution and Microplastic Dynamics\n\n## 1. Overview of Marine Plastics\nPlastics constitute between 60% and 80% of total marine debris globally. Common marine plastics comprise low-density polyethylene (LDPE), high-density polyethylene (HDPE), polypropylene (PP), and polyethylene terephthalate (PET). Due to their high buoyancy and polymer stability, plastics persist in oceanic currents and coastal tidal zones for decades to centuries."
+    },
+    {
+      "chunk_id": "KB-DOC-001_c2",
+      "doc_id": "KB-DOC-001",
+      "title": "Marine Plastic Pollution and Microplastic Dynamics",
+      "category": "Marine Pollution Information",
+      "source": "Marine Environmental Research Review & Coastal Litter Management Guidelines",
+      "text": "cs persist in oceanic currents and coastal tidal zones for decades to centuries.\n\n## 2. Environmental and Ecological Significance\n- **Macro-debris Ingestion:** Marine turtles, seabirds (such as shearwaters and albatrosses), and marine mammals frequently mistake floating plastic bags, bottle caps, and packaging films for natural prey such as jellyfish or squid. Ingestion causes physical blockage of the digestive tract, false satiation, starvation, and internal ulceration.\n- **Photodegradation and Microplastics:** Exposure to ultraviolet (UV) solar radiation and mechanical wave action causes brittle macroplastics to fracture into secondary microplastics (particles smaller than 5 millimeters).\n- **Chemical Adsorption:** Microplastics possess a hydrophobic surface that adsorbs persistent organic pollutants (POPs), including polychlorinated biphenyls (PCBs) and organochlorine pesticides, from seawater. Ingested microplastics can transfer these toxins into marine trophic webs."
+    },
+    {
+      "chunk_id": "KB-DOC-001_c3",
+      "doc_id": "KB-DOC-001",
+      "title": "Marine Plastic Pollution and Microplastic Dynamics",
+      "category": "Marine Pollution Information",
+      "source": "Marine Environmental Research Review & Coastal Litter Management Guidelines",
+      "text": "ater. Ingested microplastics can transfer these toxins into marine trophic webs.\n\n## 3. Recommended Field Response and Handling\n- **Tidal Zone Retrieval:** Collect plastic debris during low tide before high-water tidal cycles refloat and transport fragments offshore into pelagic currents.\n- **Segregation:** Sort recovered plastics into clean rigid polymers (PET, HDPE bottles) suitable for mechanical recycling, and contaminated or degraded fragments destined for municipal non-hazardous waste streams.\n- **Protective Equipment:** Field personnel should utilize puncture-resistant puncture-proof gloves, closed-toe coastal boots, and UV protection when handling degraded brittle plastics that may produce sharp micro-splinters."
+    },
+    {
+      "chunk_id": "KB-DOC-001_c4",
+      "doc_id": "KB-DOC-001",
+      "title": "Marine Plastic Pollution and Microplastic Dynamics",
+      "category": "Marine Pollution Information",
+      "source": "Marine Environmental Research Review & Coastal Litter Management Guidelines",
+      "text": " when handling degraded brittle plastics that may produce sharp micro-splinters.\n\n## 4. Monitoring Considerations\n- Note the level of biofouling (algae and barnacle encrustation), which indicates the duration of time the plastic debris has spent adrift at sea.\n- Record polymer brand, manufacturing country markings (if legible), and product type to assist in identifying point-source or commercial origin in coastal debris surveys."
+    },
+    {
+      "chunk_id": "KB-DOC-004_c1",
+      "doc_id": "KB-DOC-004",
+      "title": "Organic Coastal Waste, Macroalgal Inundation, and Biomass Dynamics",
+      "category": "Environmental Monitoring Guidance",
+      "source": "Coastal Estuarine and Wetland Ecology Monitoring Guidelines",
+      "text": "# Organic Coastal Waste, Macroalgal Inundation, and Biomass Dynamics\n\n## 1. Description of Organic Marine Debris\nOrganic marine debris includes pelagic macroalgae (such as pelagic Sargassum fluitans and natans), wrack-line seagrass detritus, dead marine organisms, animal carcasses, and driftwood. While natural organic material plays a vital ecological role as nutrient sources and nesting habitat, abnormal excessive influxes disrupt coastal ecosystems."
+    },
+    {
+      "chunk_id": "KB-DOC-004_c2",
+      "doc_id": "KB-DOC-004",
+      "title": "Organic Coastal Waste, Macroalgal Inundation, and Biomass Dynamics",
+      "category": "Environmental Monitoring Guidance",
+      "source": "Coastal Estuarine and Wetland Ecology Monitoring Guidelines",
+      "text": "ces and nesting habitat, abnormal excessive influxes disrupt coastal ecosystems.\n\n## 2. Environmental and Ecological Significance\n- **Anoxia and Eutrophication:** When massive volumes of seaweed or organic matter decompose along stagnant coastal lagoons or beaches, bacterial respiration consumes dissolved oxygen, creating localized anoxic (oxygen-depleted) dead zones that cause localized fish and invertebrate kills.\n- **Toxic Gas Emissions:** Anaerobic decomposition of heavy organic mats generates hydrogen sulfide (H2S) gas and ammonia, causing respiratory irritation, nauseous odors, and potential health hazards for coastal residents and workers.\n- **Smothering of Sea Turtle Nests:** Heavy carpets of washed-up sargassum block sea turtle hatchlings from crawling from dune nests into the open ocean, resulting in desiccation or predation."
+    },
+    {
+      "chunk_id": "KB-DOC-004_c3",
+      "doc_id": "KB-DOC-004",
+      "title": "Organic Coastal Waste, Macroalgal Inundation, and Biomass Dynamics",
+      "category": "Environmental Monitoring Guidance",
+      "source": "Coastal Estuarine and Wetland Ecology Monitoring Guidelines",
+      "text": "ling from dune nests into the open ocean, resulting in desiccation or predation.\n\n## 3. Recommended Field Response and Management\n- **Preserve Natural Wrack Line:** Do not mechanically strip normal, healthy wrack lines containing small amounts of dried kelp and driftwood, as these stabilize beach sand against erosion and nourish beach-dwelling amphipods.\n- **Manage Excessive Accumulations:** In areas with heavy anoxic rotting biomass exceeding 30 cm depth, manual rake collection or low-impact agricultural raking may be deployed away from sensitive turtle nesting zones.\n- **Protective Measures:** Cleanup workers near decomposing organic mats must wear masks or respirators if hydrogen sulfide odor is noticeable, along with eye protection and waterproof boots."
+    },
+    {
+      "chunk_id": "KB-DOC-004_c4",
+      "doc_id": "KB-DOC-004",
+      "title": "Organic Coastal Waste, Macroalgal Inundation, and Biomass Dynamics",
+      "category": "Environmental Monitoring Guidance",
+      "source": "Coastal Estuarine and Wetland Ecology Monitoring Guidelines",
+      "text": "ogen sulfide odor is noticeable, along with eye protection and waterproof boots.\n\n## 4. Monitoring Considerations\n- Estimate thickness and coverage (percentage of intertidal zone covered).\n- Verify whether plastic or synthetic debris is interwoven into the organic mass, requiring manual sorting prior to municipal composting or burial."
+    }
+  ]
+}
