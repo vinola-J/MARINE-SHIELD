@@ -1,0 +1,114 @@
+{
+  "is_trained": true,
+  "evaluation_timestamp": "2026-09-28T05:18:23.620561+00:00",
+  "total_test_samples": 24,
+  "overall": {
+    "accuracy": 0.875,
+    "precision_macro": 0.9286,
+    "recall_macro": 0.875,
+    "f1_macro": 0.8545,
+    "precision_weighted": 0.9286,
+    "recall_weighted": 0.875,
+    "f1_weighted": 0.8545
+  },
+  "per_class": {
+    "Plastic Waste": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 4
+    },
+    "Fishing Net": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 4
+    },
+    "Glass": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 4
+    },
+    "Metal": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "support": 4
+    },
+    "Organic Waste": {
+      "precision": 1.0,
+      "recall": 0.25,
+      "f1_score": 0.4,
+      "support": 4
+    },
+    "Other Waste": {
+      "precision": 0.5714,
+      "recall": 1.0,
+      "f1_score": 0.7273,
+      "support": 4
+    }
+  },
+  "confusion_matrix": [
+    [
+      4,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      4,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      4,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      4,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      3
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      4
+    ]
+  ],
+  "class_labels": [
+    "Plastic Waste",
+    "Fishing Net",
+    "Glass",
+    "Metal",
+    "Organic Waste",
+    "Other Waste"
+  ],
+  "epochs_trained": 5,
+  "training_time_seconds": 27.33,
+  "best_val_accuracy": 0.8333,
+  "status": "Production Model Verified"
+}
